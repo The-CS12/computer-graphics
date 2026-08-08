@@ -134,7 +134,21 @@ branch = "content"
 # اسکریپتی که از giscus گرفتید رو اینجا پیست کنید
 script = '''
 
-# جای اسکریپتتون این کامنت رو پاک کنید و اسکریپت رو اینجا بزارید.
+<script src="https://giscus.app/client.js"
+        data-repo="The-CS12/computer-graphics"
+        data-repo-id="R_kgDOTynz9g"
+        data-category="General"
+        data-category-id="DIC_kwDOTynz9s4DC9kn"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="catppuccin_frappe"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
 
 '''
 
