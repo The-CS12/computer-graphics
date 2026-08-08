@@ -30,6 +30,7 @@
 ‍‍‍```
 cp ./content/threads/site/_index.md ./content/threads/<your-chap-name>/_index.md
 ‍‍‍```
+
 سپس برای تنظیم اولیه group thread مذکور فایل کپی شده را در دایرکتوری ای که ساختید باز کنید و ادیت کنیم... همه چیز کامنت شده پس به احتمال زیاد مشکلی نخواهید داشت، اگر بود ایشو بزنید!
 
 <span style="background:#f003; font-weight:600; display:block;"> توجه داشته باشید</span>
