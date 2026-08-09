@@ -95,13 +95,13 @@ marked_read_text = "خونده نشده"
 # متن عنوان مدال تبریک بعد از خوندن ترد
 congrats_title = "تبریک عرض مینمایم"
 # متن مدال تبریک (کاراکتر {count} با تعداد تردهای خوانده شده جایگزین میشه)
-congrats_text = "تا الان {count} ترد خوندی بنازمتتتت"
+congrats_text = "تا الان {count} ترد خوندی گامبارههه!"
 # متن اشتراک‌گذاری (کاراکتر {title} با عنوان ترد جایگزین میشه)
 share_text = "سلام دوستان! ترد '{title}' رو بخونید، خیلی مفیده"
 # تعداد ترد در هر صفحه مربوط به اون فصل مثلا : /threads/chapter1
 threads_per_page = 5
 # آدرس عکس تبریک (بعد از خوندن ترد)
-congrats_image = "/assets/static-pic/congrat.gif"
+congrats_image = "/assets/static-pic/congrats_obsessed_girl.png"
 
 # ===========================================
 # دست نزن به این بخش برادر من خب...
