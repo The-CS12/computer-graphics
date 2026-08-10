@@ -12,7 +12,7 @@ title = "گرافیک کامپیوتری به سبکِ تِرِد"
 # توضیح کوتاه برای کل سایت بیشتر بدرد seo میخوره
 description = "توضیح کوتاه مثلا یادگیری شبکه با تِرد های کوتاه"
 threads_preview_count = 5
-threads_chap_count_per_page = 3
+threads_chap_count_per_page = 6
 
 [params.banner]
 # مثلا سیستم عامل یا شبکه
