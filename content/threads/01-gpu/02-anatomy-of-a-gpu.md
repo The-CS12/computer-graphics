@@ -128,7 +128,7 @@ GPU منابع محاسباتی زیادی داره که می‌تونن تعد�
 
 {{< /readmore >}}
 
-<img src="/assets/static-pic/graphics-pipeline.png">
+<img src="/assets/static-pic/threads/graphics-pipeline.png">
 
 _(مراحل قابل برنامه ریزی در GPU، با متن Programmable. و مراحل کاملا فیکس و غیر قابل برنامه ریزی با Fixed مشخص شدن.)_
 
