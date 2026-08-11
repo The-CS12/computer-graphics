@@ -8,7 +8,7 @@ draft: false
 # اوردر پست بهتره به صورت اینکریمنتال افزایش پیدا کنه
 order: 2
 # توضیح کوتاه پست برای seo
-description: ""
+description: "چطوری جهت و اندازه رو مدل سازی کنیم؟"
 
 # لایسنس این مطلب رو بنویسید مثلا MIT
 license: "MIT"
@@ -114,9 +114,9 @@ Vector می‌گه:
 
 <br />
 
-**B - A** = (5, 4) - (2, 1) = (3, 3)
+**Vector AB** = B - A = (5, 4) - (2, 1) = (3, 3)
 
-<br />
+<img src="/assets/static-pic/threads/vec(AB).png" style="width: 80%;">
 
 پس:
 
