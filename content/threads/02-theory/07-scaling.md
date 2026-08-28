@@ -58,7 +58,7 @@ mathEnable: false
 
 <img src="/assets/static-pic/threads/point-A-scaling.png" style="width: 60%;">
 
-پس برای بزرگ کردن یک نقطه می‌تونیم بگیم:
+پس برای تغییر اندازه یک نقطه می‌تونیم بگیم:
 
 **Position × Scale = New Position**
 
@@ -146,7 +146,7 @@ Scale می‌تونه کمتر از `1` هم باشه.
 
 یعنی اندازه‌ی آبجکت نصف بشه.
 
-و همزمان:
+از طرف دیگه:
 
 **Scale factor = 3**
 
